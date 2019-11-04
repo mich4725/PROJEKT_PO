@@ -14,7 +14,7 @@ Editors/Tools:
     calendar planner -
     spreadsheet -
     "midnight commander" -
-    SQLite database schema editor -
+    SQLite database schema editor - Michał Wiśniewski
     UML class diagram editor -
     UML sequence diagram editor -
     UML activity diagram editor -
